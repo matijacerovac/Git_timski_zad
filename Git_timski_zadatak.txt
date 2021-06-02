@@ -1,1 +1,2 @@
 Ovo je dokument za Git timski zadatak.
+oblak
